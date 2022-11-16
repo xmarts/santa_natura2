@@ -1,0 +1,4 @@
+[submodule "xmarts/10n-pe-destination-account"]
+	path = xmarts/10n-pe-destination-account
+	url = git@github.com:xmarts/10n-pe-destination-account.git
+	branch = 15.0
