@@ -1,0 +1,4 @@
+[submodule "xmarts/l10n_pe_detractions"]
+	path = xmarts/l10n_pe_detractions
+	url = git@github.com:xmarts/l10n_pe_detractions.git
+	branch = 15.0-cesar
