@@ -2,3 +2,8 @@
 	path = xmarts/10n-pe-destination-account
 	url = git@github.com:xmarts/10n-pe-destination-account.git
 	branch = 15.0
+
+[submodule "xmarts/l10n_pe_detractions"]
+	path = xmarts/l10n_pe_detractions
+	url = git@github.com:xmarts/l10n_pe_detractions.git
+	branch = 15.0
